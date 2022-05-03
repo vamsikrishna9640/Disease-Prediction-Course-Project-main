@@ -1,1 +1,0 @@
-# Disease-Prediction-Course-Project-main
